@@ -18,7 +18,7 @@
 </div>
 
 <style>
-	h1,button {
+	h1 {
 		font-family: 'Bakbak One';
 	}
 
